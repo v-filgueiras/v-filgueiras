@@ -18,7 +18,7 @@ Sou um **Engenheiro da Computação** em formação contínua, apaixonado por **
 
 Atualmente, estou focado em aprimorar minhas habilidades com o **ecossistema Spring (Spring Boot, Spring Data, REST APIs)**, além de aprofundar meu conhecimento em **bancos de dados relacionais, versionamento com Git** e **estruturação de projetos escaláveis**.
 
-Tenho compromisso com **qualidade de código, clareza, responsabilidade técnica e aprendizado constante**. Gosto de escrever código limpo e fácil de manter — minha meta é construir soluções que sejam simples, mas poderosas.
+Tenho compromisso com **qualidade de código, clareza, responsabilidade técnica e aprendizado constante**. — minha meta é construir soluções que sejam simples, mas poderosas.
 
 ---
 
