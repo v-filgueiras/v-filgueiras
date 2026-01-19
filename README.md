@@ -39,15 +39,6 @@ Tenho compromisso com **código limpo, boas práticas, responsabilidade técnica
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v-filgueiras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-filgueiras&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### 📬 Vamos nos conectar
 
 - 💼 <a href="https://www.linkedin.com/in/victor-filgueiras-2ba4a32b3/">LinkedIn</a>
