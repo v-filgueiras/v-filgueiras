@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou o Victor Filgueiras Santana</h1>
-<h3 align="center">Engenheiro da Computação | Backend Developer | Java Enthusiast ☕</h3>
+<h3 align="center">Engenheiro da Computação | Backend Developer | Python Enthusiast ☕</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um **Engenheiro da Computação** em formação contínua, apaixonado por **desenvolvimento backend com Java**, boas práticas de código, arquitetura limpa e soluções eficientes.
+Sou um **Engenheiro da Computação** em formação contínua, apaixonado por **análise de daodos e desenvolvimento backend **, boas práticas de código, arquitetura limpa e soluções eficientes.
 
 Atualmente, estou focado em aprimorar minhas habilidades com o **ecossistema Spring (Spring Boot, Spring Data, REST APIs)**, além de aprofundar meu conhecimento em **bancos de dados relacionais, versionamento com Git** e **estruturação de projetos escaláveis**.
 
