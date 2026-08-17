@@ -8,13 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro da Computação em formação com sólida experiência em Desenvolvimento Full Stack, Inteligência Artificial, Suporte Técnico de TI e Infraestrutura de Redes.
-
-- 🔭 Atualmente estagiando em **TI e Desenvolvimento de Sistemas** na Secretaria Municipal de Saúde de Três Lagoas - MS.
-- 🎓 Bacharelado em **Engenharia da Computação** no **IFMS** (2022 - 2027) e Técnico em Automação Industrial pelo **SENAI**.
-- 🤖 Apaixonado por **IA, Agentes de IA, Visão Computacional (OpenCV, PyTorch)** e construção de APIs RESTful escaláveis (FastAPI, Node.js).
-- 🎓 Ex-Pesquisador de Iniciação Científica (Reconhecimento de Placas com IA/OCR) e Ex-Monitor Acadêmico de Algoritmos e Cálculo II/III.
-- 💬 Idiomas: **Português** (Nativo), **Inglês** (Avançado) e **Alemão** (Introdutório).
+Atualmente integrando a equipe da Secretaria Municipal de Saúde de Três Lagoas - MS, atuo na criação de APIs escaláveis, dashboards interativos, scripts de automação de dados e suporte técnico. Possuo vivência acadêmica em pesquisa de Visão Computacional (Deep Learning e OCR) e monitoria de algoritmos e matemática avançada. Comunicativo em Português (Nativo), Inglês (Avançado) e com conhecimentos básicos em Alemão.
 
 ---
 
