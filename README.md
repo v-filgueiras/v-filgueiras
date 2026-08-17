@@ -8,7 +8,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente integrando a equipe da Secretaria Municipal de Saúde de Três Lagoas - MS, atuo na criação de APIs escaláveis, dashboards interativos, scripts de automação de dados e suporte técnico. Possuo vivência acadêmica em pesquisa de Visão Computacional (Deep Learning e OCR) e monitoria de algoritmos e matemática avançada. Comunicativo em Português (Nativo), Inglês (Avançado) e com conhecimentos básicos em Alemão.
+Atualmente integrando a equipe da Secretaria Municipal de Saúde de Três Lagoas - MS, atuo na criação de APIs escaláveis, dashboards interativos, scripts de automação de dados e suporte técnico. Possuo vivência acadêmica em pesquisa de Visão Computacional (Deep Learning e OCR) e monitoria de algoritmos e matemática avançada. 
+Comunicativo em Português (Nativo), Inglês (Avançado) e com conhecimentos básicos em Alemão.
 
 ---
 
